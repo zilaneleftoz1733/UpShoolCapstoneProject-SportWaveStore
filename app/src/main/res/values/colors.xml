@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="maroon">#952323</color>
+    <color name="red">#A73121</color>
+    <color name="beige">#DAD4B5</color>
+    <color name="sand">#F2E8C6</color>
+    <color name="yellow">#F4C72E</color>
+    <color name="background1">#fdf1ef</color>
+    <color name="button_color1">#AD8A7F</color>
+    <color name="background">#7F9A7F</color>
+
+    Yeşil Tonları:
+
+    #5cb85c (Yeşil)
+    #8FDF8F (Açık Yeşil)
+    #2ECC71 (Zeytin Yeşili)
+    #66CDAA (Orta Turkuaz Yeşili)
+    Pastel Yeşiller:
+
+    #A9DFBF (Soluk Yeşil)
+    #D5F5E3 (Deniz Yeşili)
+    #B0E57C (Yumuşak Limon Yeşili)
+    #C3FDB8 (Açık Yeşil)
+    Soft Yeşiller:
+
+    #9ACD32 (Soluk Sarı Yeşil)
+    #7CCD7C (Açık Deniz Yeşili)
+    #98FB98 (Yumuşak Yeşil)
+    #8F9779 (Soluk Kehribar Yeşili)
+
+
+</resources>

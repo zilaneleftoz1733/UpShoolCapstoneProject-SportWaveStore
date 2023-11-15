@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413941701684",
+    "project_id": "sportwavestore-95f34",
+    "storage_bucket": "sportwavestore-95f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413941701684:android:e08862a5d572ad581f3e61",
+        "android_client_info": {
+          "package_name": "com.zilaneleftoz.sportwavestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xi9fJwit6GmZ5SeACViVnjz7LGkEGWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
